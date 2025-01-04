@@ -18,28 +18,7 @@
     "/": "https://bsky.app/profile/helyx.ballshed.net",
     "/bsky": "/"
   },
-  "joan": {
-    "/bsky": "https://bsky.app/profile/joan.ballshed.net"
-  },
-  "luke": {
-    "/bsky": "https://bsky.app/profile/luke.ballshed.net"
-  },
-  "max": {
-    "/bsky": "https://bsky.app/profile/max.ballshed.net"
-  },
-  "red": {
-    "/": "https://bsky.app/profile/red.ballshed.net",
-    "/twitter": "https://twitter.com/ragingenby",
-    "/x": "https://x.com/ragingenby"
-  },
   "red-mp3": {
-    "/": "https://bsky.app/profile/red-mp3.ballshed.net",
-    "/bsky": "/"
-  },
-  "robin": {
-    "/bsky": "https://bsky.app/profile/robin.ballshed.net"
-  },
-  "twig": {
-    "/bsky": "https://bsky.app/profile/twig.ballshed.net"
+    "/": "https://bsky.app/profile/red-mp3.ballshed.net"
   }
 }

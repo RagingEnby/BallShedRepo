@@ -4,47 +4,42 @@
     "/road_trip.mp3": "https://open.spotify.com/playlist/30JWYn3glhzNuaXYyg60EH?si=01aa6c0231ec46d0",
     "/road_trip": "/road/trip.mp3"
   },
-  "*": "/",
+  "*": {
+    "/": "https://bsky.app/profile/{subdomain}.ballshed.net"
+  },
   "charlae": {
     "/": "https://bsky.app/profile/charlae.ballshed.net",
     "/bsky": "/"
   },
   "dylan": {
-    "/": "https://bsky.app/profile/dylan.ballshed.net",
-    "/bsky": "/"
+    "/bsky": "https://bsky.app/profile/dylan.ballshed.net"
   },
   "helyx": {
     "/": "https://bsky.app/profile/helyx.ballshed.net",
     "/bsky": "/"
   },
   "joan": {
-    "/": "https://bsky.app/profile/joan.ballshed.net",
-    "/bsky": "/"
+    "/bsky": "https://bsky.app/profile/joan.ballshed.net"
   },
   "luke": {
-    "/": "https://bsky.app/profile/luke.ballshed.net",
-    "/bsky": "/"
+    "/bsky": "https://bsky.app/profile/luke.ballshed.net"
   },
   "max": {
-    "/": "https://bsky.app/profile/max.ballshed.net",
-    "/bsky": "/"
+    "/bsky": "https://bsky.app/profile/max.ballshed.net"
   },
   "red": {
     "/": "https://bsky.app/profile/red.ballshed.net",
-    "/bsky": "/",
     "/twitter": "https://twitter.com/ragingenby",
-    "/x": "https://x.com/ragingenby",
+    "/x": "https://x.com/ragingenby"
   },
   "red-mp3": {
     "/": "https://bsky.app/profile/red-mp3.ballshed.net",
     "/bsky": "/"
   },
   "robin": {
-    "/": "https://bsky.app/profile/robin.ballshed.net",
-    "/bsky": "/"
+    "/bsky": "https://bsky.app/profile/robin.ballshed.net"
   },
   "twig": {
-    "/": "https://bsky.app/profile/twig.ballshed.net",
-    "/bsky": "/"
+    "/bsky": "https://bsky.app/profile/twig.ballshed.net"
   }
 }

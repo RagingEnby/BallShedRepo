@@ -2,5 +2,15 @@
   "@": {
     "/": "https://bsky.app/starter-pack/red.ballshed.net/3leddyltene22"
   },
-  "*": "/"
+  "*": "/",
+  "charlae": { "/": "https://bsky.app/profile/charlae.ballshed.net" },
+  "dylan": { "/": "https://bsky.app/profile/dylan.ballshed.net" },
+  "helyx": { "/": "https://bsky.app/profile/helyx.ballshed.net" },
+  "joan": { "/": "https://bsky.app/profile/joan.ballshed.net" },
+  "luke": { "/": "https://bsky.app/profile/luke.ballshed.net" },
+  "max": { "/": "https://bsky.app/profile/max.ballshed.net" },
+  "red": { "/": "https://bsky.app/profile/red.ballshed.net" },
+  "red-mp3": { "/": "https://bsky.app/profile/red-mp3.ballshed.net" },
+  "robin": { "/": "https://bsky.app/profile/robin.ballshed.net" },
+  "twig": { "/": "https://bsky.app/profile/twig.ballshed.net" }
 }

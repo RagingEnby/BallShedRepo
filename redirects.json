@@ -3,7 +3,7 @@
     "/": "https://bsky.app/profile/ballshed.net/feed/ballshed",
     "/feed": "https://go.bsky.app/NsfwZEQ",
     "/road_trip.mp3": "https://open.spotify.com/playlist/30JWYn3glhzNuaXYyg60EH?si=01aa6c0231ec46d0",
-    "/road_trip": "/road/trip.mp3"
+    "/road_trip": "https://open.spotify.com/playlist/30JWYn3glhzNuaXYyg60EH?si=01aa6c0231ec46d0"
   },
   "*": {
     "/": "https://bsky.app/profile/{subdomain}.ballshed.net"

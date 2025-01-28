@@ -1,7 +1,10 @@
 {
   "@": {
     "/": "https://bsky.app/profile/ballshed.net/feed/ballshed",
-    "/feed": "https://go.bsky.app/NsfwZEQ",
+    "/pack": "https://go.bsky.app/NsfwZEQ",
+    "/zip": "https://go.bsky.app/NsfwZEQ",
+    "/.zip": "https://go.bsky.app/NsfwZEQ",
+    "/ballshed.zip": "https://go.bsky.app/NsfwZEQ",
     "/road_trip.mp3": "https://open.spotify.com/playlist/30JWYn3glhzNuaXYyg60EH?si=01aa6c0231ec46d0",
     "/road_trip": "https://open.spotify.com/playlist/30JWYn3glhzNuaXYyg60EH?si=01aa6c0231ec46d0",
     "/members.json": "https://bsky.app/profile/did:plc:epobfhnt6pcf7vp4jfu5cf2f/lists/3levonrdspo2j",

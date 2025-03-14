@@ -8,7 +8,11 @@
     "/road_trip.mp3": "https://open.spotify.com/playlist/30JWYn3glhzNuaXYyg60EH?si=01aa6c0231ec46d0",
     "/road_trip": "https://open.spotify.com/playlist/30JWYn3glhzNuaXYyg60EH?si=01aa6c0231ec46d0",
     "/members.json": "https://bsky.app/profile/did:plc:epobfhnt6pcf7vp4jfu5cf2f/lists/3levonrdspo2j",
-    "/members": "https://bsky.app/profile/did:plc:epobfhnt6pcf7vp4jfu5cf2f/lists/3levonrdspo2j"
+    "/members": "https://bsky.app/profile/did:plc:epobfhnt6pcf7vp4jfu5cf2f/lists/3levonrdspo2j",
+    "/steam": "https://steamcommunity.com/groups/ballshed",
+    "/minecraft": "https://mc.ballshed.net/",
+    "/mc": "https://mc.ballshed.net",
+    "/map": "https://mc.ballshed.net"
   },
   "*": {
     "/": "https://bsky.app/profile/{subdomain}.ballshed.net"
